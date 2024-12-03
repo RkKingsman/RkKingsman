@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RkKingsman
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Rest Assured & Appium Testing
-- 💞️ I’m looking to collaborate
 - 📫 Reach me on kingstonrathna@gmail.com
 
 <!---
